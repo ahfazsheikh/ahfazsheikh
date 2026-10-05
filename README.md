@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+my name is ahfaz 
+<br>
+i am learning python
+
 <!--
 **ahfazsheikh/ahfazsheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
